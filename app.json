@@ -7,13 +7,13 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TgCatUB/catuserbot",
+  "repository": "https://github.com/vloggerdeven/DK-UserBot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "Dᴋ 🇮🇳"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
